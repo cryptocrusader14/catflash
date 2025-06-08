@@ -1,4 +1,4 @@
-# Real Flash USDT, No payment before DEMO.
+# Real Flash USDT, No payment for DEMO.
 
 There are too many people claims they are selling Flash USDT. But do you know what is Flash USDT? I'll give you free flash usdt after this i promise. Let's dive in. 
 
