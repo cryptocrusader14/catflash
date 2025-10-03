@@ -24,7 +24,7 @@ It's simple:
  3. Press connect wallet button, MetaMask will ask you if you want to add token and some flash thing. Approve all. (For your security use empty MetaMask wallet! If it's possible open a brand new wallet with no token in it)
  4. After confirmation, you will see USDT Bep-20 Token in your wallet after 1-2 minute.
  5. You can refresh it if you will not see tokens.
- 6. If you get any trouble please mail us [catflashcat@proton.me](mailto:catflashcat@proton.me)
+ 6. If you get any trouble please mail us [catflashcat@proton.me](mailto:catflashpro@proton.me)
 
 
 https://github.com/user-attachments/assets/f5bf1b70-7383-47e6-9ed3-a276de49585f
