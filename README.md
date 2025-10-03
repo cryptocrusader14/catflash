@@ -19,14 +19,11 @@ It's all free Flash USDT solution. If you want to own that you need to pay but, 
 You can watch the short video first for better understanding. We are using MetaMask for DEMO purpose, after purchase you can use Trust Wallet with transferable balance! We did this because some people abusing this free Trust Wallet service i don't know why.
 It's simple:
 
- 1. Go to [CatFlash](https://catflash.cat) site
+ 1. Go to [CatFlash](https://catflash.pro) site
  2. Press the Demo button, this will be navigate you to demo section.
  3. Press connect wallet button, MetaMask will ask you if you want to add token and some flash thing. Approve all. (For your security use empty MetaMask wallet! If it's possible open a brand new wallet with no token in it)
  4. After confirmation, you will see USDT Bep-20 Token in your wallet after 1-2 minute.
  5. You can refresh it if you will not see tokens.
  6. If you get any trouble please mail us [catflashcat@proton.me](mailto:catflashcat@proton.me)
 
-
-
-https://github.com/user-attachments/assets/d826dc73-f80e-46a7-b007-c218fc98a22e
 
